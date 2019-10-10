@@ -12,5 +12,5 @@ Application run on http://localhost:8080/
 
 Endpoint:
 * [POST] http://localhost:8080/api/message
-  Body: {"message": "Your Message"}
+  Body: `{"message": "Your Message"}`
 * [GET] http://localhost:8080/api/message
